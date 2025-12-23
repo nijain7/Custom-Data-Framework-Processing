@@ -4,6 +4,7 @@
 A custom data engineering toolkit implemented in Java that recreates core functionality of Python’s Pandas DataFrame using fundamental data structures. This project demonstrates system-level design, data structure optimization, and scalable data manipulation without relying on external libraries.
 
 **🚀 Features**
+
 DataFrame Implementation,
 Tabular data storage + row/column operations,
 Data loading, insertion, retrieval, and updates,
@@ -25,6 +26,7 @@ Tool.java
 README.md
 
 **🎯 Purpose**
+
 Built to demonstrate:
 
 Data engineering fundamentals
@@ -33,6 +35,7 @@ Custom data pipeline foundations
 Performance-aware implementation without libraries
 
 **🧪 Testing**
+
 Run unit tests to validate functionality and integrity:
 javac *.java
 java DataFrameTest
@@ -40,6 +43,7 @@ java HashTableTest
 java BSTTest
 
 **🔧 Tech**
+
 Java
 Object-oriented design
 Algorithmic + structural efficiency
